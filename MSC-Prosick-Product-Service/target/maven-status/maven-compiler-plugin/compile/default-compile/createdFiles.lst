@@ -1,0 +1,6 @@
+com\prosick\ptechie\product\entity\Product.class
+com\prosick\ptechie\product\dto\ProductRequest.class
+com\prosick\ptechie\product\controller\ProductController.class
+com\prosick\ptechie\product\repo\ProductRepo.class
+com\prosick\ptechie\product\MscPtechieProductServiceApplication.class
+com\prosick\ptechie\product\service\ProductService.class
